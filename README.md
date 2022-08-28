@@ -21,6 +21,6 @@ The approach leads to convoluted code.
 
 ## References
 
-- [https://github.com/golang/go/issues/28254](proposal: Go 2: spec: add self type for use within interfaces).
-- [https://medium.com/@mier85/self-referencing-interfaces-in-golang-1-18-bcd6b5701992](Self referencing interfaces in golang 1.18).
-- [https://appliedgo.com/blog/generic-interface-functions](How to use generics for creating self-referring interfaces).
+- [proposal: Go 2: spec: add self type for use within interfaces](https://github.com/golang/go/issues/28254).
+- [Self referencing interfaces in golang 1.18](https://medium.com/@mier85/self-referencing-interfaces-in-golang-1-18-bcd6b5701992).
+- [How to use generics for creating self-referring interfaces](https://appliedgo.com/blog/generic-interface-functions).
