@@ -18,3 +18,9 @@ Since Go 1.18 we can define interfaces that include constructors of themselves i
 ```
 
 The approach leads to convoluted code.
+
+## References
+
+- [https://github.com/golang/go/issues/28254](proposal: Go 2: spec: add self type for use within interfaces).
+- [https://medium.com/@mier85/self-referencing-interfaces-in-golang-1-18-bcd6b5701992](Self referencing interfaces in golang 1.18).
+- [https://appliedgo.com/blog/generic-interface-functions](How to use generics for creating self-referring interfaces).
