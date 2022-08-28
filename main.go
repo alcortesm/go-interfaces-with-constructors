@@ -1,9 +1,9 @@
 package main
 
 import (
-	"demo_inject_logger/job1"
-	"demo_inject_logger/job2"
-	"demo_inject_logger/job3"
+	"github.com/alcortesm/go-interfaces-with-constructors/job1"
+	"github.com/alcortesm/go-interfaces-with-constructors/job2"
+	"github.com/alcortesm/go-interfaces-with-constructors/job3"
 
 	"github.com/sirupsen/logrus"
 	"go.uber.org/zap"
