@@ -1,4 +1,4 @@
-module demo_inject_logger
+module github.com/alcortesm/go-interfaces-with-constructors
 
 go 1.19
 
